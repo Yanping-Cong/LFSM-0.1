@@ -14,10 +14,12 @@ python setup.py install --user
 ```
 
 ## The function in Model
+
+### LFSM.spectral.spectral_index_analysis_for_constant.reborn
 ```
-spectral_index 
-return spectral index
+: class ::  LFSM.spectral.spectral_index_analysis_for_constant.reborn(*params)
 ```
+
 
 To use this code, one can simply do::
 
