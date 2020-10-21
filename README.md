@@ -1,13 +1,24 @@
 # LFSM-0.1
-## Long-Wavelength Sky Model (LWSM)
+## Long-frequency Sky Model (LFSM)
 --------
 The LFSM implementation of the NE2001 electron model using in 3D emissivity.
 
 The output can be stored either in memory by means of a numpy array, or in a HDF5 format file.
-## installation
+
+## Installation
 ```
+as root user:
 python setup.py install or python setup.py develop
+for user only:
+python setup.py install --user
 ```
+
+## The function in Model
+```
+spectral_index 
+return spectral index
+```
+
 To use this code, one can simply do::
 
     >>> from LFSM.absorp_sky_map.global_spectrum_new import absorption_JRZ
