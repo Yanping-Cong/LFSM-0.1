@@ -4,7 +4,10 @@
 The LFSM implementation of the NE2001 electron model using in 3D emissivity.
 
 The output can be stored either in memory by means of a numpy array, or in a HDF5 format file.
-
+## installation
+```
+python setup.py install or python setup.py develop
+```
 To use this code, one can simply do::
 
     >>> from LFSM.absorp_sky_map.global_spectrum_new import absorption_JRZ
