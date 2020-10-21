@@ -1,6 +1,0 @@
-include README.rst
-recursive-include input *
-recursive-include LFSM/input *
-#recursive-include funniest/NE2001_4python *
-recursive-include LFSM/absorp_sky_map *
-
