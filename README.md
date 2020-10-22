@@ -1,7 +1,7 @@
 # LFSM-0.1
 ## Long-frequency Sky Model (LFSM)
 --------
-The LFSM implementation of the NE2001 electron model using in 3D emissivity.
+The LFSM implementation of the NE2001 electron model using in 3D emissivity of galaxy.
 
 The output can be stored either in memory by means of a numpy array, or in a HDF5 format file.
 
@@ -14,7 +14,7 @@ python setup.py install --user
 ```
 
 
-
+## How to
 To use this code, one can simply do::
 
     >>> from LFSM.absorp_sky_map.global_spectrum_new import absorption_JRZ
@@ -32,5 +32,6 @@ To use this code, one can simply do::
     using_raw_diffue bool: the input data for fitting parameter of emissivity, if True the data will be smoothed by hp.smooth() method. \\
     only_fit_Anu: fixed False. \\
 There are an example in LFSM/test_ground, one can simpyly go to the dir and run test.py
+
 ## Documentation
-Documentation can be found at `<https://lfsm-01.readthedocs.io/en/latest/>`.
+Documentation can be found at <https://lfsm-01.readthedocs.io/en/latest/>.
