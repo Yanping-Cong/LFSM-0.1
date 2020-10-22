@@ -33,4 +33,4 @@ To use this code, one can simply do::
     only_fit_Anu: fixed False. \\
 There are an example in LFSM/test_ground, one can simpyly go to the dir and run test.py
 ## Documentation
-Documentation can be found at `<https://lfsm-01.readthedocs.io/en/latest/>`_.
+Documentation can be found at `<https://lfsm-01.readthedocs.io/en/latest/>`.
