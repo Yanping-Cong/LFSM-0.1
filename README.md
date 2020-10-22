@@ -13,12 +13,6 @@ for user only:
 python setup.py install --user
 ```
 
-## The function in Model
-
-### LFSM.spectral.spectral_index_analysis_for_constant.reborn
-```
-: class ::  LFSM.spectral.spectral_index_analysis_for_constant.reborn(*params)
-```
 
 
 To use this code, one can simply do::
@@ -38,3 +32,5 @@ To use this code, one can simply do::
     using_raw_diffue bool: the input data for fitting parameter of emissivity, if True the data will be smoothed by hp.smooth() method. \\
     only_fit_Anu: fixed False. \\
 There are an example in LFSM/test_ground, one can simpyly go to the dir and run test.py
+## Documentation
+Documentation can be found at `<https://lfsm-01.readthedocs.io/en/latest/>`_.
