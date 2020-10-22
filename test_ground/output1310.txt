@@ -1,0 +1,252 @@
+Starting MPI rank=8 [size=28]Starting MPI rank=13 [size=28]
+Starting MPI rank=17 [size=28]
+Starting MPI rank=18 [size=28]
+Starting MPI rank=25 [size=28]
+Starting MPI rank=4 [size=28]
+Starting MPI rank=19 [size=28]
+Starting MPI rank=16 [size=28]
+Starting MPI rank=22 [size=28]
+Starting MPI rank=26 [size=28]
+Starting MPI rank=2 [size=28]
+Starting MPI rank=5 [size=28]
+Starting MPI rank=1 [size=28]
+
+Starting MPI rank=0 [size=28]
+Starting MPI rank=12 [size=28]
+Starting MPI rank=14 [size=28]
+Starting MPI rank=20 [size=28]
+Starting MPI rank=27 [size=28]
+Starting MPI rank=7 [size=28]
+Starting MPI rank=21 [size=28]
+Starting MPI rank=6 [size=28]
+Starting MPI rank=10 [size=28]
+Starting MPI rank=11 [size=28]
+Starting MPI rank=23 [size=28]
+Starting MPI rank=24 [size=28]
+Starting MPI rank=3 [size=28]
+Starting MPI rank=15 [size=28]
+Starting MPI rank=9 [size=28]
+('_path', '/public/home/wufq/.lo('_path', '/public/home/wufq/.local/lib/python2.7/site-packacal/lib/python2.7/site-packages/funniest-0ges/funniest-0.1-py2.7.egg/funniest/N('_path', '/public/home/wufq/.local/.1-py2.7.egg/funniest/NE2001_4pyth('_path', '/public/home/w('_path', '/public/home/wufq/.lo('_path', '/public/home/wufqE2001_4python/src_NE2001/libNE2001.so')
+lib/python2.7/site-packages/funniest-0.1-py2.on/src_NE2001/libNE2001.so')
+ufq/.local/lib/python2.7/site-pacal/lib/python2.7/site-packages/fu/.local/lib/python2.7/site-packages/funn7.egg/funniest/NE2001_4python/src_NE2001/l('_path', '/public/home/wufq/.local/lib/pythonckages/funniest-0.1-py2.7.egg/funniest-0.1-py2.7.egg/funniest/NE2001_iest-0.1-py2.7.egg/funniest/NE2001_4pythoibNE2001.so')
+2.7/site-packages/funniest-0.1-pynniest/NE2001_4python/src_NE2004python/src_NE2001/libNE2001.so')n/src_NE2001/libNE2001.so')
+2.7.egg/funniest/NE2001_4pyth1/libNE2001.so')
+
+on/src_NE2001/libNE2001.so')
+('_path', '/public/home/wufq/.local/lib/python2.7/sit('_path', '/public/home/wufq/.local/lib/python2.e-packages/funniest-0.1-py2.7.egg/funnie7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_st/NE2001_4python/src_NE2001/libNE2001.so')
+4python/src_NE2001/libNE2001.so')
+('_path', '/public/home/wufq/.local/lib/python2.7/('_path', '/public/home/wuf('_path', '/public/hom('_path', '/site-packages/funniest-0.1-py2.7.egg/funniest/Nq/.local/lib/python2.7/site-package/wufq/.local/lib/python2.7/sipublic/home/wufq/.local/lib/pE2001_4python/src_NE2001/libNE2001.so')('_path', '/public/home/es/funniest-0.1-py2.7.egg/f('_path', '/public/homete-packages/funniest-0.1-py2.7.egg/funnieython2.7/site-packages/funniest-0.1-py2.
+('_path', '/public/home/wufq/.locwufq/.local/lib/python2.7/site-packages/funnunniest/NE2001_4python/src_NE2001/libNE200/wufq/.local/lib/python2.7/site-packagesst/NE2001_4python/src_NE2001/libNE2001.so'7.egg/funniest/NE2001_4python/src_NE2001/lal/lib/python2.7/site-packages/funniesiest-0.1-py2.7.egg/funniest/NE2001_4py1.so')
+/funniest-0.1-py2.7.egg/funniest/NE)
+ibNE2001.so')
+t-0.1-py2.7.egg/funniest/NE2001_4pythonthon/src_NE2001/libNE2001.so')
+2001_4python/src_NE2001/libNE2/src_NE2001/libNE2001.so'001.so')
+)
+('_path', '/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_4python/src_NE2001/libNE2001.so')
+('_path', '/pu(blic/home/wufq/.local/lib/python('_path', '/public/home/wufq/.local/lib/pytho('_path', '/publi2.7/site-packages/funnies('_path', '/public/home/n2.7/site-packages/fu('_path', '/public/home/('_path', '/public/home/wuc/home/wufq/.local/lib/python2.7/s('_path', '/public/home/wufq/.local/lib/pytt-0.1-py2.7.egg/funniest/NE2001_4python/srcwufq/.local/lib/python2.7/site-packages/fnniest-0.1-py2.7.egg/funniest/NE2001_4pywufq/.local/lib/python2.7/site-packagfq/.local/lib/python2.7/site-packages/ite-packages/funniest-0.1-py2.7.egg/funhon2.7/site-packages/funniest-0.1-py2_NE2001/libNE2001.so')
+unniest-0.1-py2.7.egg/funniest/NE2001thon/src_NE2001/libNE2001.so')
+es/funniest-0.1-py2.7.egg/funniest/NE2funniest-0.1-py2.7.egg/funniest/NE200niest/NE2001_4python/src_NE2001/libNE2.7.egg/funniest/NE2001_4python/src_N_4python/src_NE2001/libNE2001.so'001_4python/src_NE2001/libNE21_4python/src_NE2001/libNE200001.so')
+E2001/libNE2001.so')
+)
+001.so')
+1.so')
+'_path', '/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_4python/src_NE2001/libNE2001.so')
+('_path', '/public/home/wufq/.l(ocal/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_4python/src_NE2001/libNE2001.so')
+'_path', '/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_4python/src_NE2001/libNE2001.so')
+('_path', '/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_4python/src_NE2001/libNE2001.so')
+i am here doing fitting now
+/public/home/wufq/.local/lib/python2.7/site-packages/healpy/fitsfunc.py:352: UserWarning: If you are not specifying the input dtype and using the default np.float64 dtype of read_map(), please consider that it will change in a future version to None as to keep the same dtype of the input file: please explicitly set the dtype if it is important to you.
+  "If you are not specifying the input dtype and using the default "
+NSIDE = 512
+ORDERING = RING in fits file
+INDXSCHM = IMPLICIT
+('np.isnan(diffuse_x)', (array([], dtype=int64),))
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+    cla.mpi()
+  File "test.py", line 7, in <module>
+    cla.mpi()
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+    cla.mpi()
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+    cla.mpi()
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    cla.mpi()
+    cla.mpi()
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+Traceback (most recent call last):
+  File "test.py", line 7, in <module>
+    cla.mpi()
+  File "/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/absorp_sky_map/global_spectrum_new.py", line 457, in mpi
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 8
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 2
+    
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+    
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 25
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 5
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 7
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 18
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 3
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 4
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 6
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 9
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 10
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 11
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 16
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 17
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 19
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 21
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 22
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 24
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 27
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 1
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 12
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 13
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 14
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 15
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 20
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 23
+    
+UnboundLocalError: local variable 'result' referenced before assignment
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 26

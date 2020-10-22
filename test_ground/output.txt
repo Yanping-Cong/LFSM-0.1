@@ -1,0 +1,9 @@
+nohup: ignoring input
+('_path', '/public/home/wufq/.local/lib/python2.7/site-packages/funniest-0.1-py2.7.egg/funniest/NE2001_4python/src_NE2001/libNE2001.so')
+i am here doing fitting now
+/public/home/wufq/.local/lib/python2.7/site-packages/healpy/fitsfunc.py:352: UserWarning: If you are not specifying the input dtype and using the default np.float64 dtype of read_map(), please consider that it will change in a future version to None as to keep the same dtype of the input file: please explicitly set the dtype if it is important to you.
+  "If you are not specifying the input dtype and using the default "
+NSIDE = 512
+ORDERING = RING in fits file
+INDXSCHM = IMPLICIT
+('np.isnan(diffuse_x)', (array([], dtype=int64),))

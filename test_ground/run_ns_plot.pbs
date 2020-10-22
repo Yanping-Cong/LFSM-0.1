@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#PBS -N test
+#PBS -l nodes=1:ppn=28
+#PBS -k n
+#PBS -V
+#PBS -S /bin/bash 
+#PBS -q small
+
+cd $PBS_O_WORKDIR
+
+ulimit -n 2048
+
+NP=`cat $PBS_NODEFILE | wc -l`
+mpirun -np $NP -machinefile $PBS_NODEFILE python test.py &> output1310.txt
