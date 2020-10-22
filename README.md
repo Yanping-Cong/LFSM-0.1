@@ -31,7 +31,7 @@ To use this code, one can simply do::
     R0_R1_equal bool: in this paper we fixed R0 equals to R1 in emissivity. \\
     using_raw_diffue bool: the input data for fitting parameter of emissivity, if True the data will be smoothed by hp.smooth() method. \\
     only_fit_Anu: fixed False. \\
-There are an example in LFSM/test_ground, one can simpyly go to the dir and run test.py
+There are an example in ./test_ground, one can simpyly go to the dir and run test.py
 
 ## Documentation
 Documentation can be found at <https://lfsm-01.readthedocs.io/en/latest/>.
